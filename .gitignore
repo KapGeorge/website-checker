@@ -1,0 +1,14 @@
+config.php
+/config/
+.env
+
+*.log
+*.swp
+*.swo
+*.tmp
+.idea/
+.vscode/
+
+# system files
+.DS_Store
+Thumbs.db
